@@ -1,4 +1,8 @@
-### Hi there, I'm Daniel and I am a student at the University of Melbourne 
+### Hi there, I'm Daniel and I am a third year student at the University of Melbourne 
+
+## Find me through
+<a href=”https://www.linkedin.com/in/daniel-nappa-b202b91a0/"><img src=”https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8"></a>
+
 
 <!--
 **DanielNappa/DanielNappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
