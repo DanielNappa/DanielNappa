@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Daniel and I am a student at the University of Melbourne 
 
 <!--
 **DanielNappa/DanielNappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
