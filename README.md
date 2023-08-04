@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel and I am a third year student at the University of Melbourne 
 
-### Find me through
+### Find me on
 [<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8"/>](https://www.linkedin.com/in/daniel-nappa-b202b91a0/)
 
 <br />
