@@ -16,7 +16,7 @@
 <img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://img2.freepng.es/20180411/wre/kisspng-mysql-database-web-development-computer-software-dolphin-5ace280ea31a78.1388980015234601106681.jpg" />
+<img align="middle" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 
 
 
