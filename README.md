@@ -11,7 +11,7 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://www.techspot.com/images2/downloads/topdownload/2021/08/2021-08-25-ts3_thumbs-628.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://romainhaeuw.files.wordpress.com/2018/11/intellij_idea_logo-svg.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.pulseway.com/Images/features/patch/3pp-logos/Windows_Terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/zed-industries/zed/20c1f8245ae662a48932764e44d3295aa3244d02/assets/icons/logo_96.svg" />
 <img align="left" alt="Git" width="26px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
