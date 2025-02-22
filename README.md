@@ -9,11 +9,11 @@
 <img align="left" alt="Zed" width="26px" src="https://raw.githubusercontent.com/zed-industries/zed/20c1f8245ae662a48932764e44d3295aa3244d02/assets/icons/logo_96.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://www.techspot.com/images2/downloads/topdownload/2021/08/2021-08-25-ts3_thumbs-628.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://romainhaeuw.files.wordpress.com/2018/11/intellij_idea_logo-svg.png" />
-<img align="left" alt="Terminal" width="26px" src="https://www.pulseway.com/Images/features/patch/3pp-logos/Windows_Terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/favicons/favicon.svg" />
 <img align="left" alt="Git" width="26px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
-<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
