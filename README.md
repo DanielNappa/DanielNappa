@@ -7,7 +7,6 @@
 
 ### What's under my belt
 <img align="left" alt="Zed" width="26px" src="https://raw.githubusercontent.com/zed-industries/zed/20c1f8245ae662a48932764e44d3295aa3244d02/assets/icons/logo_96.svg" />
-<img align="left" alt="Atom" width="26px" src="https://i1.wp.com/elias.praciano.com/wp-content/uploads/2016/10/Atom_editor_logo-1bit.png?ssl=1" />
 <img align="left" alt="Visual Studio" width="26px" src="https://www.techspot.com/images2/downloads/topdownload/2021/08/2021-08-25-ts3_thumbs-628.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://romainhaeuw.files.wordpress.com/2018/11/intellij_idea_logo-svg.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.pulseway.com/Images/features/patch/3pp-logos/Windows_Terminal.png" />
